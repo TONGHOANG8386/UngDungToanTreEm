@@ -1,0 +1,8 @@
+﻿Thể lệ và thông tin trò chơi..
+Trò chơi Toán Học dành cho lứa tuổi từ 1 đến 15 tuổi. 
+Gồm 2 phần tự luận và trắc nghiệm giúp các bé đỡ nhàm chán thay vì chỉ chơi với một hình thức.
+Phần tự luận : Sau khi phép tính hiện ra các bé có thể trả lời bằng cách nhập đáp án từ bàn phím.
+Phần trắc nghiệm : Sau khi phép tính hiện ra có 3 đáp án ứng với câu hỏi các bé sẽ chọn câu trả lời đúng.
+Cả 2 phần đều có thời gian là 30 giây nếu trả lời đúng một câu thì sẽ được cộng thêm 3 giây và được cộng 10 điểm ứng với một câu trả lời đúng.
+Trò chơi có 2 phần trợ giúp cho bé đối với những câu hỏi khó thì bé có thể lựa chọn phương án đổi câu hỏi hoặc sử dụng máy tính.
+Đối với đổi câu hỏi thì bé chỉ được giới hạn là 3 lần và sử dụng máy tính thì lưu ý được sử dụng nhiều lần nhưng các bé lưu ý không nên lạm dụng nhiều nhé.

@@ -1,0 +1,12 @@
+Luan;10;0
+Luan;15;30
+vosiluan;15;30
+vosiluan;15;30
+rêt;12;100
+a;5;100
+a;5;0
+thien;11;0
+thienDz;12;0
+tu;12;0
+tu;12;0
+tu;12;210
